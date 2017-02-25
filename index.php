@@ -1,2 +1,2 @@
 <?php
-echo 'ornek';
+echo 'ornek a';
